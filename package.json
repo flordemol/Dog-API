@@ -1,0 +1,18 @@
+{
+  "name": "dogs",
+  "version": "1.0.0",
+  "description": "Proyecto para consumir Dog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dogs",
+    "dog",
+    "perro",
+    "perros",
+    "razas de perros"
+  ],
+  "author": "Florencia De Mollein",
+  "license": "MIT"
+}

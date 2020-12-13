@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("fondo.jpg");
+  backdrop-filter: saturate(35%);
+}
+
+.container {
+  background: cornsilk;
+}
+
+#logo {
+  height: 145px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-family: "Nerko One", cursive;
+  text-shadow: 2px 2px 5px rosybrown;
+}
+
+#buscador {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+  text-align: center;
+}
+
+#apiR .card {
+  background-color: rgb(41, 38, 38);
+  color: white;
+}
+
+#apiR .card img {
+  object-fit: cover;
+  height: 380px;
+  object-position: center;
+}
+
+.card-body {
+  background: black;
+  text-align: center;
+}
+
+#find {
+  margin-top: 10px;
+  background-color: darkslategray;
+  border: darkslategray;
+}
